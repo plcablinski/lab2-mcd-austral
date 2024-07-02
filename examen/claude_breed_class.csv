@@ -1,0 +1,308 @@
+﻿BreedName;tipo
+Affenpinscher;Compañía
+Bichon Frise;Compañía
+Boston Terrier;Compañía
+Chinese Crested Dog;Compañía
+Coton de Tulear;Compañía
+French Bulldog;Compañía
+Havanese;Compañía
+Lhasa Apso;Compañía
+Maltese;Compañía
+Miniature Pinscher;Compañía
+Papillon;Compañía
+Pekingese;Compañía
+Pomeranian;Compañía
+Shih Tzu;Compañía
+Akita;Protección
+American Bulldog;Protección
+Anatolian Shepherd;Protección
+Boerboel;Protección
+Bullmastiff;Protección
+Cane Corso Mastiff;Protección
+Doberman Pinscher;Protección
+Dogue de Bordeaux;Protección
+German Shepherd Dog;Protección
+Great Dane;Protección
+Komondor;Protección
+Kuvasz;Protección
+Mastiff;Protección
+Neapolitan Mastiff;Protección
+Rottweiler;Protección
+Tibetan Mastiff;Protección
+Basenji;Caza
+Beagle;Caza
+Black and Tan Coonhound;Caza
+Bloodhound;Caza
+Bluetick Coonhound;Caza
+Chesapeake Bay Retriever;Caza
+Cocker Spaniel;Caza
+Dachshund;Caza
+English Pointer;Caza
+English Setter;Caza
+Fox Terrier;Caza
+Golden Retriever;Caza
+Irish Setter;Caza
+Labrador Retriever;Caza
+Pointer;Caza
+Retriever;Caza
+Rhodesian Ridgeback;Caza
+Weimaraner;Caza
+Australian Shepherd;Pastores
+Belgian Shepherd Dog Sheepdog;Pastores
+Border Collie;Pastores
+Collie;Pastores
+Corgi;Pastores
+English Shepherd;Pastores
+German Shorthaired Pointer;Pastores
+Old English Sheepdog;Pastores
+Shetland Sheepdog Sheltie;Pastores
+American Eskimo Dog;Compañía
+Brussels Griffon;Compañía
+Cairn Terrier;Compañía
+Chinese Foo Dog;Compañía
+Cockapoo;Compañía
+English Toy Spaniel;Compañía
+Italian Greyhound;Compañía
+Jack Russell Terrier;Compañía
+Kyi Leo;Compañía
+Lowchen;Compañía
+Norfolk Terrier;Compañía
+Norwich Terrier;Compañía
+Pug;Compañía
+Schipperke;Compañía
+Shiba Inu;Compañía
+Silky Terrier;Compañía
+Skye Terrier;Compañía
+Toy Fox Terrier;Compañía
+West Highland White Terrier Westie;Compañía
+Xoloitzcuintle/Mexican Hairless;Compañía
+Black Russian Terrier;Protección
+Bouvier des Flanders;Protección
+Boxer;Protección
+Caucasian Sheepdog (Caucasian Ovtcharka);Protección
+Dogo Argentino;Protección
+Fila Brasileiro;Protección
+Giant Schnauzer;Protección
+Great Pyrenees;Protección
+Hovawart;Protección
+Presa Canario;Protección
+South Russian Ovtcharka;Protección
+Tosa Inu;Protección
+Afghan Hound;Caza
+Airedale Terrier;Caza
+American Water Spaniel;Caza
+Australian Terrier;Caza
+Basset Hound;Caza
+Borzoi;Caza
+Boykin Spaniel;Caza
+Brittany Spaniel;Caza
+Coonhound;Caza
+Curly-Coated Retriever;Caza
+English Coonhound;Caza
+English Springer Spaniel;Caza
+Field Spaniel;Caza
+Flat-coated Retriever;Caza
+Foxhound;Caza
+German Wirehaired Pointer;Caza
+Gordon Setter;Caza
+Greyhound;Caza
+Harrier;Caza
+Ibizan Hound;Caza
+Irish Water Spaniel;Caza
+Irish Wolfhound;Caza
+Nova Scotia Duck-Tolling Retriever;Caza
+Otterhound;Caza
+Plott Hound;Caza
+Redbone Coonhound;Caza
+Saluki;Caza
+Spaniel;Caza
+Sussex Spaniel;Caza
+Treeing Walker Coonhound;Caza
+Whippet;Caza
+Wire-haired Pointing Griffon;Caza
+Australian Kelpie;Pastores
+Bearded Collie;Pastores
+Belgian Shepherd Laekenois;Pastores
+Belgian Shepherd Malinois;Pastores
+Belgian Shepherd Tervuren;Pastores
+Bernese Mountain Dog;Pastores
+Briard;Pastores
+Canaan Dog;Pastores
+Dutch Shepherd;Pastores
+Finnish Lapphund;Pastores
+German Spitz;Pastores
+Norwegian Buhund;Pastores
+Polish Lowland Sheepdog;Pastores
+Puli;Pastores
+Pumi;Pastores
+Samoyed;Pastores
+Swedish Vallhund;Pastores
+Bolognese;Compañía
+English Bulldog;Compañía
+Keeshond;Compañía
+Klee Kai;Compañía
+Manchester Terrier;Compañía
+Petit Basset Griffon Vendeen;Compañía
+Tibetan Spaniel;Compañía
+Tibetan Terrier;Compañía
+Appenzell Mountain Dog;Protección
+Black Mouth Cur;Protección
+Catahoula Leopard Dog;Protección
+Chinook;Protección
+Greater Swiss Mountain Dog;Protección
+Karelian Bear Dog;Protección
+Leonberger;Protección
+Sarplaninac;Protección
+Thai Ridgeback;Protección
+Bedlington Terrier;Caza
+Black Labrador Retriever;Caza
+Chocolate Labrador Retriever;Caza
+Clumber Spaniel;Caza
+English Cocker Spaniel;Caza
+Finnish Spitz;Caza
+German Pinscher;Caza
+Glen of Imaal Terrier;Caza
+Irish Terrier;Caza
+Kerry Blue Terrier;Caza
+Lakeland Terrier;Caza
+Munsterlander;Caza
+Pharaoh Hound;Caza
+Rat Terrier;Caza
+Scottish Deerhound;Caza
+Sealyham Terrier;Caza
+Smooth Fox Terrier;Caza
+Vizsla;Caza
+Welsh Springer Spaniel;Caza
+Welsh Terrier;Caza
+Wire Fox Terrier;Caza
+Yellow Labrador Retriever;Caza
+Beauceron;Pastores
+Maremma Sheepdog;Pastores
+McNab;Pastores
+New Guinea Singing Dog;Pastores
+Abyssinian;Compañía
+American Curl;Compañía
+American Shorthair;Compañía
+American Wirehair;Compañía
+Applehead Siamese;Compañía
+Balinese;Compañía
+Bengal;Compañía
+Birman;Compañía
+Bobtail;Compañía
+Bombay;Compañía
+British Shorthair;Compañía
+Burmese;Compañía
+Burmilla;Compañía
+Calico;Compañía
+Canadian Hairless;Compañía
+Chartreux;Compañía
+Chausie;Compañía
+Chinchilla;Compañía
+Cornish Rex;Compañía
+Cymric;Compañía
+Devon Rex;Compañía
+Dilute Calico;Compañía
+Dilute Tortoiseshell;Compañía
+Domestic Long Hair;Compañía
+Domestic Medium Hair;Compañía
+Domestic Short Hair;Compañía
+Egyptian Mau;Compañía
+Exotic Shorthair;Compañía
+Havana;Compañía
+Himalayan;Compañía
+Japanese Bobtail;Compañía
+Javanese;Compañía
+Korat;Compañía
+LaPerm;Compañía
+Maine Coon;Compañía
+Manx;Compañía
+Munchkin;Compañía
+Nebelung;Compañía
+Norwegian Forest Cat;Compañía
+Ocicat;Compañía
+Oriental Long Hair;Compañía
+Oriental Short Hair;Compañía
+Oriental Tabby;Compañía
+Persian;Compañía
+Pixie-Bob;Compañía
+Ragamuffin;Compañía
+Ragdoll;Compañía
+Russian Blue;Compañía
+Scottish Fold;Compañía
+Selkirk Rex;Compañía
+Siamese;Compañía
+Siberian;Compañía
+Silver;Compañía
+Singapura;Compañía
+Snowshoe;Compañía
+Somali;Compañía
+Tabby;Compañía
+Tiger;Compañía
+Tonkinese;Compañía
+Torbie;Compañía
+Tortoiseshell;Compañía
+Turkish Angora;Compañía
+Turkish Van;Compañía
+Tuxedo;Compañía
+American Hairless Terrier;Compañía
+Cavalier King Charles Spaniel;Compañía
+Chihuahua;Compañía
+Dandi Dinmont Terrier;Compañía
+Japanese Chin;Compañía
+Poodle;Compañía
+Scottish Terrier Scottie;Compañía
+Standard Poodle;Compañía
+Yorkshire Terrier Yorkie;Compañía
+Akbash;Protección
+American Staffordshire Terrier;Protección
+Bull Terrier;Protección
+Chow Chow;Protección
+Pit Bull Terrier;Protección
+Saint Bernard;Protección
+Staffordshire Bull Terrier;Protección
+Blue Lacy;Caza
+Border Terrier;Caza
+Cirneco dell'Etna;Caza
+Dalmatian;Caza
+Feist;Caza
+Galgo Spanish Greyhound;Caza
+Hound;Caza
+Italian Spinone;Caza
+Jack Russell Terrier (Parson Russell Terrier);Caza
+Jindo;Caza
+Mountain Cur;Caza
+Norwegian Elkhound;Caza
+Patterdale Terrier (Fell Terrier);Caza
+Podengo Portugueso;Caza
+Setter;Caza
+Sloughi;Caza
+Terrier;Caza
+Wheaten Terrier;Caza
+Wirehaired Terrier;Caza
+Alaskan Malamute;Pastores
+Australian Cattle Dog/Blue Heeler;Pastores
+Entlebucher;Pastores
+Eskimo Dog;Pastores
+Husky;Pastores
+Illyrian Sheepdog;Pastores
+Kai Dog;Pastores
+Kishu;Pastores
+Lancashire Heeler;Pastores
+Mountain Dog;Pastores
+Newfoundland Dog;Pastores
+Norwegian Lundehund;Pastores
+Portuguese Water Dog;Pastores
+Schnauzer;Pastores
+Sheep Dog;Pastores
+Shepherd;Pastores
+Siberian Husky;Pastores
+Spitz;Pastores
+Welsh Corgi;Pastores
+White German Shepherd;Pastores
+Carolina Dog;Caza
+Mixed Breed;Compañía
+Extra-Toes Cat (Hemingway Polydactyl);Compañía
+Sphynx (hairless cat);Compañía
+Cattle Dog;Pastores
+Peruvian Inca Orchid;Compañía
+Shar Pei;Compañía
