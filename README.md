@@ -6,3 +6,5 @@ Repositorio para la materia Laboratorio II de la Maestría en Ciencia de Datos d
 - Carreño Francisco
 - Griffiths Waldo
 - Parra Iván Javier
+
+El notebook principal se encuentra en ./examen/examen.ipynb
